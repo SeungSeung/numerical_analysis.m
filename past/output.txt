@@ -1,0 +1,14 @@
+diary output.txt;
+"hi"
+
+ans = 
+
+    "hi"
+
+"haha"
+
+ans = 
+
+    "haha"
+
+diary off;
